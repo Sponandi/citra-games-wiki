@@ -1,0 +1,19 @@
+title = "Animal Crossing: New Leaf - Welcome Amiibo"
+description = "Animal Crossing: New Leaf - Welcome Amiibo is an upgraded version of Animal Crossing: New Leaf and comes with new Amiibo (Nintendo figures with NFC chip) features. It is a life simulation video game developed and published by Nintendo for the Nintendo 3DS console. In the game, the player character takes on the role of mayor in a town populated with anthropomorphic animals.\nWorks with all current Citra builds, not only Canary Build 158 (as for ACNL)."
+needs_system_files = true
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000198E00"
+region = "usa"
+release_date = "2016-12-05"
+
+[[testcases]]
+title = "0004000000198E00"
+compatibility = "1"
+date = "2017-12-25"
+version = "HEAD-bedb1b0"
+cpu = "Intel Core i5-6400"
+gpu = "GeForce GT 730"
+os = "Windows 10 16299"
+author = "Sponandi"
